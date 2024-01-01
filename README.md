@@ -9,3 +9,7 @@ So, buckle up, fellow tech enthusiasts, and join Rikki on a journey through the 
 - 🔭 I’m actively looking for problems to solve.
 - 🌱 I’m currently learning: ML/RL (TD-Lambda)
 - 📫 How to reach me: mailto:rikki@higherengineers.nz
+
+
+<br />
+<a href="5" target="_blank"><img src="bmc_qr.png" alt="Buy Me A Coffee" height="128" width="128" ></a>

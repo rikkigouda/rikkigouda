@@ -12,4 +12,4 @@ So, buckle up, fellow tech enthusiasts, and join Rikki on a journey through the 
 
 
 <br />
-<a href="5" target="_blank"><img src="bmc_qr.png" alt="Buy Me A Coffee" height="128" width="128" ></a>
+<a href="https://www.buymeacoffee.com/rikkigouda" target="_blank"><img src="bmc_qr.png" alt="Buy Me A Coffee" height="128" width="128" ></a>
